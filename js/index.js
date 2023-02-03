@@ -8,12 +8,11 @@ let myArray = [
 		"Anders",
 		"Mickey",
 ]
-console.log(myArray);
 
 
 let random = Math.floor(Math.random() * myArray.length)
 
-console.log(random);
+
 person.innerText = myArray [random]
 	// Slå dig løs her
 
